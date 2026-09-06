@@ -1904,7 +1904,7 @@ add_requires("aws-crt-cpp")
 | -- | -- |
 | Homepage | [https://github.com/aws/aws-lc](https://github.com/aws/aws-lc) |
 | License | Apache-2.0 |
-| Versions | v1.32.0, v1.34.2, v1.37.0, v1.39.0, v1.40.0, v1.41.1, v1.45.0, v1.48.1, v1.48.5, v1.49.1, v1.51.2, v1.53.0, v1.63.0, v1.64.0, v1.65.0, v1.65.1, v1.66.1, v1.66.2, v1.67.0, v1.69.0, v1.70.0, v1.71.0, v1.72.0, v1.72.1, v1.73.0, v5.0.0, v5.1.0, v5.3.0, v5.5.0, v5.6.0 |
+| Versions | v1.32.0, v1.34.2, v1.37.0, v1.39.0, v1.40.0, v1.41.1, v1.45.0, v1.48.1, v1.48.5, v1.49.1, v1.51.2, v1.53.0, v1.63.0, v1.64.0, v1.65.0, v1.65.1, v1.66.1, v1.66.2, v1.67.0, v1.69.0, v1.70.0, v1.71.0, v1.72.0, v1.72.1, v1.73.0, v5.0.0, v5.1.0, v5.3.0, v5.5.0, v5.6.0, v5.8.0 |
 | Architectures | arm, arm64ec, x64, x86 |
 | Definition | [aws-lc/xmake.lua](https://github.com/xmake-io/xmake-repo/blob/master/packages/a/aws-lc/xmake.lua) |
 
@@ -11777,7 +11777,7 @@ add_requires("gl2ps")
 | -- | -- |
 | Homepage | [https://glad.dav1d.de/](https://glad.dav1d.de/) |
 | License | MIT |
-| Versions | v0.1.34, v0.1.36 |
+| Versions | v0.1.34, v0.1.36, v2.0.8 |
 | Architectures | arm, arm64, arm64ec, x64, x86 |
 | Definition | [glad/xmake.lua](https://github.com/xmake-io/xmake-repo/blob/master/packages/g/glad/xmake.lua) |
 
@@ -35391,7 +35391,7 @@ add_requires("tclsh")
 | -- | -- |
 | Homepage | [https://core.telegram.org/tdlib/](https://core.telegram.org/tdlib/) |
 | License | BSL-1.0 |
-| Versions | 1.8.51 |
+| Versions | 1.8.51, 1.8.67 |
 | Architectures | arm, arm64, arm64ec, x64, x86 |
 | Definition | [td/xmake.lua](https://github.com/xmake-io/xmake-repo/blob/master/packages/t/td/xmake.lua) |
 
@@ -35415,7 +35415,7 @@ add_requires("td")
 | -- | -- |
 | Homepage | [%s](%s) |
 | License | BSL-1.0 |
-| Versions | 1.8.51 |
+| Versions | 1.8.51, 1.8.67 |
 | Architectures | arm, arm64, arm64ec, x64, x86 |
 | Definition | [tdtl/xmake.lua](https://github.com/xmake-io/xmake-repo/blob/master/packages/t/tdtl/xmake.lua) |
 

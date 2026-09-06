@@ -25070,7 +25070,7 @@ add_requires("tclap")
 | -- | -- |
 | Homepage | [https://core.telegram.org/tdlib/](https://core.telegram.org/tdlib/) |
 | License | BSL-1.0 |
-| Versions | 1.8.51 |
+| Versions | 1.8.51, 1.8.67 |
 | Architectures | arm, arm64, armv7, i386, loong64, mips, mips64, mips64el, ppc, ppc64, ppc64el, riscv, riscv64, s390x, sh4, sparc64, x86_64 |
 | Definition | [td/xmake.lua](https://github.com/xmake-io/xmake-repo/blob/master/packages/t/td/xmake.lua) |
 
@@ -25094,7 +25094,7 @@ add_requires("td")
 | -- | -- |
 | Homepage | [%s](%s) |
 | License | BSL-1.0 |
-| Versions | 1.8.51 |
+| Versions | 1.8.51, 1.8.67 |
 | Architectures | arm, arm64, armv7, i386, loong64, mips, mips64, mips64el, ppc, ppc64, ppc64el, riscv, riscv64, s390x, sh4, sparc64, x86_64 |
 | Definition | [tdtl/xmake.lua](https://github.com/xmake-io/xmake-repo/blob/master/packages/t/tdtl/xmake.lua) |
 
